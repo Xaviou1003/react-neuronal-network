@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Goal
+
+This project allows to play with a neuronal network.
+The neuronal network of this project is based on : https://github.com/stevenmiller888/mind
+
+The framework uses to construct app UI is React  
 
 ## Available Scripts
 
