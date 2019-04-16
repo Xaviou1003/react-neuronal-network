@@ -3,9 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "emitter-component": "^1.1.1",
+    "htan": "^1.0.0",
+    "htan-prime": "0.0.1",
+    "node-matrix": "0.1.1",
+    "node-mind": "^1.0.1",
+    "normalize.css": "^8.0.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.2"
+    "react-json-tree": "^0.11.2",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.2",
+    "samples": "0.0.2",
+    "sigmoid": "0.0.1",
+    "sigmoid-prime": "0.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
